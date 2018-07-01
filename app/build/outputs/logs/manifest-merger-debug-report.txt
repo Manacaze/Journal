@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [android.arch.persistence.room:rxjava2:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\rxjava2-1.1.1.aar\3ed8cc0e38c3249fd9b2d5fc39ac0ccb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:guava:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\guava-1.1.1.aar\098cd6d4ded199c7483ea3db85823cc0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\831545902a9b3a42be222c19f151da95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c3280f64bb40cec312aa9dee1df9cb1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\333931c819f00c30e2c5c76ba2ca9b30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\40e9b7dc00536753386b892974b0c4af\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:17:1-39:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\7aecf13b0c481177830dd5b4a6669887\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\cbd05c9e09134bfe0ec12c43365af7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\51ff773d42fa66c59c50ee3bff2effd8\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\f1f82d4bcd5cc953cfc2a79503da62ff\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7f41f14f57eabd9203f1f66b700e1a91\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0a71b2c53d1caf2f4fc5719c6733630f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85b6909c8bf18062f4126aa562c3bc42\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cc6127043ceb84d08bcac37c6c2959b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc8cf73f428d107158acf38defd0e327\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7ae72caca7c5d508524045d7fc3cebbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ae3954458416f18a62626525e3ceac25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11430c6b96ad122746076c656f0913eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c5cfbccd4d95d68e1c8664651cc78f31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\81b9e9de40a9781fe8525b3190b42dc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\69f58010a8eb52e172b2cecde92dec64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\09416625f1b116a0640c269bcb208804\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4c040b777f8c9a643843a92230d3ab3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87c8663c7d29f2deef6aa4dea63b1b7d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a7c5468ccba0a9a171f1efeda9db8cba\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\40e9b7dc00536753386b892974b0c4af\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\40e9b7dc00536753386b892974b0c4af\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7f41f14f57eabd9203f1f66b700e1a91\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7f41f14f57eabd9203f1f66b700e1a91\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.android.jornal.MainActivity
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.android.jornal.LoginActivity
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:parentActivityName
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:26:13-55
+	android:label
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:25:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:28:13-31:19
+	android:value
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:30:17-46
+	android:name
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml:29:17-63
+uses-sdk
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+MERGED from [android.arch.persistence.room:rxjava2:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\rxjava2-1.1.1.aar\3ed8cc0e38c3249fd9b2d5fc39ac0ccb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\rxjava2-1.1.1.aar\3ed8cc0e38c3249fd9b2d5fc39ac0ccb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:guava:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\guava-1.1.1.aar\098cd6d4ded199c7483ea3db85823cc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:guava:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\guava-1.1.1.aar\098cd6d4ded199c7483ea3db85823cc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\831545902a9b3a42be222c19f151da95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\831545902a9b3a42be222c19f151da95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c3280f64bb40cec312aa9dee1df9cb1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c3280f64bb40cec312aa9dee1df9cb1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\333931c819f00c30e2c5c76ba2ca9b30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\333931c819f00c30e2c5c76ba2ca9b30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\40e9b7dc00536753386b892974b0c4af\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\40e9b7dc00536753386b892974b0c4af\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\7aecf13b0c481177830dd5b4a6669887\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\7aecf13b0c481177830dd5b4a6669887\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\cbd05c9e09134bfe0ec12c43365af7ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\cbd05c9e09134bfe0ec12c43365af7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\51ff773d42fa66c59c50ee3bff2effd8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\51ff773d42fa66c59c50ee3bff2effd8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\f1f82d4bcd5cc953cfc2a79503da62ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\f1f82d4bcd5cc953cfc2a79503da62ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7f41f14f57eabd9203f1f66b700e1a91\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7f41f14f57eabd9203f1f66b700e1a91\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0a71b2c53d1caf2f4fc5719c6733630f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0a71b2c53d1caf2f4fc5719c6733630f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85b6909c8bf18062f4126aa562c3bc42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85b6909c8bf18062f4126aa562c3bc42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cc6127043ceb84d08bcac37c6c2959b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cc6127043ceb84d08bcac37c6c2959b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc8cf73f428d107158acf38defd0e327\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc8cf73f428d107158acf38defd0e327\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7ae72caca7c5d508524045d7fc3cebbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7ae72caca7c5d508524045d7fc3cebbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ae3954458416f18a62626525e3ceac25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ae3954458416f18a62626525e3ceac25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11430c6b96ad122746076c656f0913eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11430c6b96ad122746076c656f0913eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c5cfbccd4d95d68e1c8664651cc78f31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c5cfbccd4d95d68e1c8664651cc78f31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\81b9e9de40a9781fe8525b3190b42dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\81b9e9de40a9781fe8525b3190b42dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\69f58010a8eb52e172b2cecde92dec64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\69f58010a8eb52e172b2cecde92dec64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\09416625f1b116a0640c269bcb208804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\09416625f1b116a0640c269bcb208804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4c040b777f8c9a643843a92230d3ab3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4c040b777f8c9a643843a92230d3ab3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87c8663c7d29f2deef6aa4dea63b1b7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87c8663c7d29f2deef6aa4dea63b1b7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a7c5468ccba0a9a171f1efeda9db8cba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a7c5468ccba0a9a171f1efeda9db8cba\AndroidManifest.xml:20:5-44
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Udacity\Jornal\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\252933dfce9632152ae2d267ea107b98\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\bcdcd83e51ab8784883830c91839760b\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] E:\Users\Manacaze\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0033d74c273739f9fcb0189b227aa58f\AndroidManifest.xml:24:13-58
